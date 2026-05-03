@@ -1,4 +1,3 @@
-# miniguia-estudos-notebooklm
 # 🧠 Segundo Cérebro aplicado a Investimentos
 
 ## 🎯 Contexto e Objetivos
